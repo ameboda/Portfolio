@@ -52,6 +52,8 @@ if(itemClass === "skills__content skills__close"){
 skillsHeader.forEach((el) =>{
     el.addEventListener('click',toggleSkills)
 })
+
+
 /*==================== QUALIFICATION TABS ====================*/
 
 
